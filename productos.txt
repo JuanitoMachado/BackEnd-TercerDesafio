@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Zapatilla negra",
+    "price": 150,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6187541-1600-auto?v=638022144820500000&width=1600&height=auto&aspect=true",
+    "id": 1
+  },
+  {
+    "title": "Zapatilla blanca",
+    "price": 270,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6188608-1600-auto?v=638022144863100000&width=1600&height=auto&aspect=true",
+    "id": 2
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 3
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 4
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 5
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 6
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 7
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 8
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 9
+  },
+  {
+    "title": "Remera Roja",
+    "price": 70,
+    "thumbnail": "https://filaar.vtexassets.com/arquivos/ids/6077722-1600-auto?v=637989444454700000&width=1600&height=auto&aspect=true",
+    "id": 10
+  }
+]
